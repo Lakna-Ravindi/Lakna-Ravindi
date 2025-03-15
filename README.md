@@ -3,7 +3,7 @@
 
 <!-- Coding Animation GIF -->
 <p align="center">
-  <img alt="coding animation" width="600" src="https://media.giphy.com/media/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
+  <img alt="coding animation" width="600" src="[https://media.giphy.com/media/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif](https://utpaqp.edu.pe/post/what-is-the-wealth-management-career-ladder-finance-tech/web-developer-animated-gif)">
 </p>
 
 <p align="center">
