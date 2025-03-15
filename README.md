@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lakna Ravindi</h1>
 <h3 align="center">A passionate About Software Development and Innovation</h3>
-<img align="right" alt ="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw1VE2h3w8VCZ4_JxqPyTn_l&ust=1742107921586000&source=images&cd=vfe&opi=89978449&ved=0CBEQjhxqFwoTCPDS1_C_i4wDFQAAAAAdAAAAABAE"
+<img align="right" alt ="coding" width="400" src="236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakna-ravindi&label=Profile%20views&color=0e75b6&style=flat" alt="lakna-ravindi" /> </p>
 
