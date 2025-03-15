@@ -1,12 +1,11 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
+
 <h1 align="center">Hi 👋, I'm Lakna Ravindi</h1>
 <h3 align="center">A passionate Software Developer focused on Innovation</h3>
 
 <!-- Coding Animation GIF -->
 <p align="center">
- ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+  <img alt="coding animation" width="600" src="https://media.giphy.com/media/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 </p>
 
 <p align="center">
@@ -65,31 +64,32 @@
 ---
 
 ### 📊 GitHub Stats:
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lakna-ravindi&show_icons=true&locale=en&layout=compact" alt="Lakna's Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lakna-ravindi&show_icons=true&count_private=true&hide_title=true&hide=prs" alt="Lakna's GitHub Stats" width="400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakna-ravindi&show_icons=true&locale=en" alt="Lakna's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakna-ravindi&" alt="Lakna's GitHub Streak" width="400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakna-ravindi&" alt="Lakna's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lakna-ravindi&show_icons=true&layout=compact&hide=html&langs_count=6&card_width=250" alt="Lakna's Top Languages" width="400" />
 </p>
 
 ---
 
 ### 🌱 Current Focus:
 
-- **Final Year Project**: Working on software development projects with real-world applications.
-- **Machine Learning**: Advancing my knowledge in AI and Data Science.
-- **Flutter**: Developing cross-platform mobile applications.
+- **Final Year Project**: Developing software with real-world applications.
+- **Machine Learning**: Enhancing my knowledge in AI and Data Science.
+- **Flutter**: Building mobile apps using Flutter.
 
 ---
 
 ### 💬 Fun Facts:
-- I love exploring new technologies and discovering innovative solutions.
-- Passionate about solving real-world problems through software development.
+- I love exploring new technologies.
+- Passionate about solving real-world problems with software development.
 
 ---
 
