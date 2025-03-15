@@ -1,27 +1,35 @@
 <h1 align="center">Hi 👋, I'm Lakna Ravindi</h1>
 <h3 align="center">A passionate Software Developer focused on Innovation</h3>
 
+<!-- Coding Animation GIF -->
 <p align="center">
-  <img alt="coding" width="400" src="https://media.giphy.com/media/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
+  <img alt="coding animation" width="600" src="https://media.giphy.com/media/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lakna-ravindi&label=Profile%20views&color=0e75b6&style=flat" alt="lakna-ravindi" />
 </p>
 
-- 🔭 I’m currently working on **My Final Year Project**.
-- 🌱 I’m learning **Machine Learning, Flutter**.
-- 👨‍💻 All of my projects are available at: [GitHub](https://github.com/Lakna-Ravindi).
-- 📫 How to reach me: **ravindilakna48@gmail.com**.
+---
+
+### 🔭 Currently Working On:
+- **Final Year Project**: Diving into real-world software development.
+- 🌱 **Learning**: Machine Learning & Flutter Development.
+
+### 📚 Find My Projects:
+- Visit my [GitHub Repositories](https://github.com/Lakna-Ravindi).
+
+### 📫 Reach Me:
+- 📧 **Email**: ravindilakna48@gmail.com
 
 ---
 
-### 🚀 Connect with me:
+### 🚀 Connect with Me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/lakna-ekanayake-54a5a5241/" target="blank">
+  <a href="https://www.linkedin.com/in/lakna-ekanayake-54a5a5241/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.facebook.com/ravindi.ekanayake.7" target="blank">
+  <a href="https://www.facebook.com/ravindi.ekanayake.7" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
 </p>
@@ -54,7 +62,6 @@
 ---
 
 ### 📊 GitHub Stats:
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lakna-ravindi&show_icons=true&locale=en&layout=compact" alt="Lakna's Most Used Languages" />
 </p>
@@ -71,15 +78,15 @@
 
 ### 🌱 Current Focus:
 
-- **Final Year Project**: Enhancing my software development skills by working on real-world projects.
-- **Learning Machine Learning**: Exploring AI and Data Science.
-- **Flutter Development**: Building mobile applications with Flutter.
+- **Final Year Project**: Working on software development projects with real-world applications.
+- **Machine Learning**: Advancing my knowledge in AI and Data Science.
+- **Flutter**: Developing cross-platform mobile applications.
 
 ---
 
 ### 💬 Fun Facts:
-- I love exploring new technologies and innovative ideas.
-- I am passionate about creating solutions that solve real-world problems using software development.
+- I love exploring new technologies and discovering innovative solutions.
+- Passionate about solving real-world problems through software development.
 
 ---
 
